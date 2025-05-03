@@ -1,0 +1,6 @@
+train: E:/Kuntal/project_idea/my_Projects/Rider, With Helmet, Without Helmet, Number Plate Detection/Dataset/train/images
+val: E:/Kuntal/project_idea/my_Projects/Rider, With Helmet, Without Helmet, Number Plate Detection/Dataset/val/images
+
+nc: 4
+
+names: ["with helmet", "without helmet", "rider", "number plate"]
