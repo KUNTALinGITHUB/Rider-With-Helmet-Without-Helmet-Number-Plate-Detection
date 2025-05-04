@@ -11,7 +11,7 @@ An AI-powered system that detects whether a rider is wearing a helmet and extrac
 
 ## 🧠 Overview
 
-This project employs the **YOLOv5** object detection model to identify:
+This project employs the **YOLO** object detection model to identify:
 
 - **Helmet Detection:** Determines if a rider is wearing a helmet.
 - **Number Plate Recognition:** Extracts the vehicle's number plate for identification.
